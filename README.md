@@ -1,2 +1,3 @@
-# pong
-APW 2021 CS04210 Final Project 
+Author: Armando Santiago
+4/30/2021
+Pong Project 
